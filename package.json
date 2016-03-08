@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/nilptr/we#readme",
   "dependencies": {
-    "handlebars": "^4.0.5"
+    "cheerio": "^0.20.0",
+    "handlebars": "^4.0.5",
+    "raw-body": "^2.1.5"
   }
 }
