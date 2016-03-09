@@ -2,7 +2,7 @@
   "name": "we",
   "version": "1.0.0",
   "description": "wechat",
-  "main": "index.js",
+  "main": "lib/proto.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
